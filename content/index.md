@@ -1,3 +1,3 @@
 ---
-title: A place for all the Writeups
+title: A place for all my Writeups
 ---
