@@ -5,11 +5,13 @@
 ##### Heading 5
 ###### Heading 6
 
+#ctf 
 
 - List
 - of 
 - Things
-  
+	- one
+	- two
   
 ```c
 //Luhn's Algorithm i.e. the checkSum in this case
@@ -92,7 +94,7 @@ $$
 	- [ ] 
 
 
-![[Pasted image 20240704221119.png]]
+
 
 
 
