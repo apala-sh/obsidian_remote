@@ -1,5 +1,5 @@
 ---
-reference: https://tryhackme.com/room/rrootme
+link: https://tryhackme.com/room/rrootme
 tags:
   - easy
   - thm
@@ -39,13 +39,13 @@ Next we use `gobuster` to perform file enumeration to discover hidden directorie
 We see 2 interesting directories `/uploads` and `/panel` 
 visiting both:
 
-- http://<target_IP>/panel $\rightarrow$ leads us to a page containing an upload form
+- `http://<target_IP>/panel` $\rightarrow$ leads us to a page containing an upload form
 
 ![[Screenshot from 2025-07-11 13-56-28.png]]
 
 
 
-- http://<target_IP>/uploads $\rightarrow$ the directory where we can potentially see the files uploaded  
+- `http://<target_IP>/uploads` $\rightarrow$ the directory where we can potentially see the files uploaded  
 
 ![[Screenshot from 2025-07-11 13-56-54.png]]
 

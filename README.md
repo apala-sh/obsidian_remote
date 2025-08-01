@@ -1,3 +1,8 @@
+
+# README
+
+Hello, this is the repo for the website https://apala-sh.github.io/obsidian_remote/. A place to host all my notes, writeups & projects. This was made using Quartz, the original quartz readme is included below.
+
 # Quartz v4
 
 > “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
